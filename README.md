@@ -1,0 +1,1 @@
+Este repositorio contiene la entrega final del proyecto final de EII-4220, nuestro proyecto se basa en la aplicación de una regresión binomial negativa con el objetivo de predecir views de ofertas de trabajo en linkedin en base ciertas variables como el salario, o si es remoto, etc.
